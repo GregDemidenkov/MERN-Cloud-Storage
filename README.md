@@ -15,7 +15,7 @@
 ## Backend:
 
 - Express(express-fileupload, express-validator)
-- Mongoose
+- MongoDB(mongoose)
 - Config
 - bcryptjs
 - jsonwebtoken
