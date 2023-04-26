@@ -25,6 +25,8 @@
 
 ## Server:
 
+### Before start you need add in server/config/default.json your db url
+
 <br/>
 Go to server directory
 
